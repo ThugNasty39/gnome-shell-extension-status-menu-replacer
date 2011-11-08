@@ -1,0 +1,6 @@
+{
+    "shell-version": ["3.0.2"], 
+    "uuid": "status-menu-replacer@madhouse-project.org", 
+    "name": "Status Menu Username replacer", 
+    "description": "Replaces the user name in the status menu."
+}
